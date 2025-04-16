@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Serhii!
-🚀 Back-end Developer in [COAX](https://coaxsoft.com/) | 🧠 Problem Solver | ⚡ I also know React.js, but that's a secret.
+🚀 Node.js Developer in [COAX](https://coaxsoft.com/) | 🧠 Problem Solver | ⚡ I also know React.js, but that's a secret.
 
 ### 🛠 My favorite Tech Stack
 - 🟩 Node.js
