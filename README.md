@@ -3,7 +3,7 @@
 
 ### 🛠 My favorite Tech Stack
 - 🟩 Node.js
-- 🔥 Express
+- 🔥 Express.js
 - 🧱 Nest.js
 
 ### 📬 Contact Me
